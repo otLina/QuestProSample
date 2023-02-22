@@ -29,7 +29,7 @@ public class SwitchPassthrough : MonoBehaviour
 
     private void Update()
     {
-        if(OVRInput.Get(OVRInput.Button.One))
+        if(OVRInput.GetDown(OVRInput.Button.One))
         {
             avatar1.SetActive(false);
             Passthrough();

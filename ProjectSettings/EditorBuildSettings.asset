@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/PassthroughHands.unity
+    guid: c94e480e4a6da614693c0cd3372e2d2d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 36183974f1938174cb39c4ec6f897afc, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e81189ec3dcff874ca56d4227c7c9057, type: 2}
